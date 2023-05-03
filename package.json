@@ -1,0 +1,26 @@
+{
+  "name": "puzzles_art_land",
+  "version": "1.0.0",
+  "description": "Vitrine en ligne",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "puzzles art land, puzzle art land"
+  ],
+  "author": "Rico/puzzleartland@orange.fr/https://puzzlesartland.fr",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "eslint": "^8.19.0",
+    "mocha": "^10.0.0",
+    "node-minify": "^2.0.3",
+    "webpack": "^5.73.0"
+  }
+}
